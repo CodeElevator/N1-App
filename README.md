@@ -36,13 +36,6 @@ Click on `Install Now`. This will start the installation.
 
 If everything went well, the installer will say `Setup was successful`. Hooray! Python is installed and you can now close the window.
 
-## Upgrading Python on MacOS:
-Usually, Python 2.7 is already installed on macOS, what you'll need to do is upgrade it to the 3.11 version:
-- First, open up your terminal by (apparently) opening `Spotlight` using `command + space` and type "terminal", then, hit enter.
-- Now, use the command pip to uninstall python2 like this: `pip uninstall python`.
-- After that, you want to install python 3.11: `pip install python==3.11`
-- You're done! Enjoy!
-
 ### Download Python on macOS
 Before installing Python, check if it's already installed.
 
